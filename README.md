@@ -1,5 +1,4 @@
-# Machine_Learning
-SBA Loan Approval Analysis, Applied Machine Learning Research Project	                           March 2023 – May 2023    
+# ML_Project    
 •	Implemented data cleansing processes through Python scripts, increasing data accuracy by 15%.
 •	Improved ETL processing efficiency by 10% by managing data extraction, transformation, and loading schedules.
 •	Created predictive models using Python, reducing forecasting errors by 10%.
